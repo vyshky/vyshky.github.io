@@ -7,3 +7,9 @@ theme = "blowfish"
   # Включаем плиточный дизайн как на pwn.college
   homepage = "card"
   layoutPageView = "card"
+
+[params.homepage]
+  layout = "page"
+  homepageImage = "img/hero.jpg"
+  showRecent = true
+  layoutSwitcher = false
