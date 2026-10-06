@@ -1,9 +1,9 @@
 [build]
-  command = "hugo mod get -u && hugo --gc --minify"
+  command = "hugo --gc --minify"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.125.0"
+  HUGO_VERSION = "0.165.0"
   GO_VERSION = "1.21"
   GO111MODULE = "on"
   HUGO_ENV = "production"
