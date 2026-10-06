@@ -1,0 +1,9 @@
+baseURL = "/"
+languageCode = "ru"
+title = "Блог по Нагрузке и ИБ"
+theme = "blowfish"
+
+[params]
+  # Включаем плиточный дизайн как на pwn.college
+  homepage = "card"
+  layoutPageView = "card"
